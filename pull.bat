@@ -4,6 +4,6 @@
 
 git pull
 
-timeout 5
+timeout 1
 
 goto loop
